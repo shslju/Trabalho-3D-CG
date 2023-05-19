@@ -1,3 +1,3 @@
-# *Trabalho de Computação Gráfica*
+# **Trabalho de Computação Gráfica**
 ## Renderização de Cena 3D
 Orem por nós
